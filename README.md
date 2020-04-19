@@ -11,7 +11,7 @@ Download the Reflex Package nxs and import into Nexus on "Reflex packages" tab (
 
 Click on the function "onGMCP" and copy the following code into there:
 
-//begin code for on GMCP
+```JavaScript
 all_clear = true;
 plant_present = 'false'; //toggle to true for testing, false for finding missing only
 
@@ -79,6 +79,6 @@ if (get_variable('patrolEnvironment') == 'Ocean' || get_variable('patrolEnvironm
     
       
 };
-//end code for patrol reflex onGMCP
+```
 
 Click Save Client Settings (top right corner).
