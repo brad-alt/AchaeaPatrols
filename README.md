@@ -1,6 +1,6 @@
 # AchaeaPatrols
 
-This reflex package for Nexus clien that assists with patrolling for the Wildwalkers clan. It is based on Gavriil's reflex for mudlet. It is a work in progress and not all functionality available - please send Ninvu a message in game for feature requests.
+This reflex package for Nexus client that assists with patrolling for the Wildwalkers clan. It is based on Gavriil's reflex for mudlet. It is a work in progress and not all functionality available - please send Ninvu a message in game for feature requests.
 
 When you walk around in a supported environment, you will see the message "hello (environment)" in gray, for example, "hello Forest". You will see a bold blue message "All Clear!" if there are no missing plants, or you will see a list of missing plants in bold red.
 
